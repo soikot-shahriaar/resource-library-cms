@@ -132,11 +132,11 @@ resource-library-cms/
 ### 1. Download and Extract
 ```bash
 # Clone the repository
-git clone <repository-url> resource-library-cms
+git clone https://github.com/soikot-shahriaar/resource-library-cms.git
 cd resource-library-cms
 
 # Or download and extract manually
-wget <download-url>
+wget https://github.com/soikot-shahriaar/resource-library-cms.git
 tar -xzf resource-library-cms.tar.gz
 cd resource-library-cms
 ```
